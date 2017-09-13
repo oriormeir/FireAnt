@@ -15,3 +15,6 @@ https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypa
 https://jbremer.org/intercepting-system-calls-on-x86_64-windows/ (code: https://github.com/jbremer/rreat)
 
 API Monitor: http://www.rohitab.com/apimonitor
+
+# Code Injection
+https://blogs.microsoft.co.il/pavely/2017/09/05/dll-injection-with-setthreadcontext/
