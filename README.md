@@ -13,3 +13,5 @@ https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypa
 
 # Intecepting System Calls
 https://jbremer.org/intercepting-system-calls-on-x86_64-windows/ (code: https://github.com/jbremer/rreat)
+
+API Monitor: http://www.rohitab.com/apimonitor
