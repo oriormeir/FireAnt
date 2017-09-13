@@ -3,6 +3,7 @@ System calls, shellcodes, windows API
 
 # Kernel Debugging
 http://resources.infosecinstitute.com/introduction-to-kernel-debugging/
+
 http://resources.infosecinstitute.com/introduction-to-kernel-debugging-with-windbg/#gref
 
 
