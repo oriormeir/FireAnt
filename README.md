@@ -18,3 +18,6 @@ API Monitor: http://www.rohitab.com/apimonitor
 
 # Code Injection
 https://blogs.microsoft.co.il/pavely/2017/09/05/dll-injection-with-setthreadcontext/
+
+# Blogs about Threat Analysis
+https://www.cylance.com/en_us/blog/threat-spotlight-the-shadow-brokers-and-eternalpulsar-malware.html
