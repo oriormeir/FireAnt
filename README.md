@@ -20,6 +20,9 @@ Extract System Call Number https://www.evilsocket.net/2014/02/11/on-windows-sysc
 
 API Monitor: http://www.rohitab.com/apimonitor
 
+## Hooking
+BOUNDHOOK: EXCEPTION BASED, KERNEL-CONTROLLED USERMODE Hooking https://www.cyberark.com/threat-research-blog/boundhook-exception-based-kernel-controlled-usermode-hooking/
+
 # Code Injection
 https://blogs.microsoft.co.il/pavely/2017/09/05/dll-injection-with-setthreadcontext/
 
